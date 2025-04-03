@@ -1,0 +1,23 @@
+body {
+    font-family: 'Roboto', sans-serif;
+    background-color: #f8f9fa;
+}
+
+h1, h2 {
+    font-weight: 700;
+}
+
+button {
+    transition: 0.3s;
+}
+
+button:hover {
+    opacity: 0.8;
+}
+
+.footer {
+    background-color: #343a40;
+    color: white;
+    padding: 20px;
+    text-align: center;
+}
